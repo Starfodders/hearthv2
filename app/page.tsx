@@ -1,7 +1,8 @@
-import React from 'react'
 
-export const page = () => {
+const page = () => {
   return (
-    <div>page</div>
+    <div className="paytone text-3xl font-bold text-primary">HearthDBT</div>
   )
 }
+
+export default page
